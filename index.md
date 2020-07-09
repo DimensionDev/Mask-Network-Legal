@@ -1,5 +1,9 @@
-# Maskbook Partner list
+# Maskbook Legal list
 
-| Partner                        | Products                                      
-| ------------------------------ | ---------------------------------------------
-| [Arweave](https://arweave.org) | [Maskbook Plugin "File Service"](arweave/file-service)
+- [Maskbook Privacy Policy](maskbook)
+
+## List of Partner
+
+| Partner                        | Products                                               |
+| ------------------------------ | ------------------------------------------------------ |
+| [Arweave](https://arweave.org) | [Maskbook Plugin "File Service"](arweave/file-service) |
