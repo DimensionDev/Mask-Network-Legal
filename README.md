@@ -6,7 +6,7 @@ This repository includes legal documents and notices for cooperation-based produ
 
 Partner                                     | List of Documents
 ------------------------------------------- | -----------------
-[Arweave](//arweave.org)                    | https://partner.maskbook.com/arweave/file-service/
+[Arweave](//arweave.org)                    | https://partner.maskbook.com/arweave/
 
 ## Notes
 
