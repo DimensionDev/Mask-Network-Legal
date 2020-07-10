@@ -1,4 +1,6 @@
-# Maskbook (Browser Extension)<br>Privacy Policy
+[Homepage](../../) / [Maskbook](../) / Maskbook (iOS) Privacy Policy
+
+# Maskbook (iOS)<br>Privacy Policy
 
 Last Updated on **Jan 24, 2020**
 
@@ -6,12 +8,18 @@ Last Updated on **Jan 24, 2020**
 
 This privacy policy document covers first-party implementations of Maskbook the iOS App, which are engineered to work on iOS devices from Apple Inc (CA, USA), e.g. iPhone and iPad. It does not cover distribution methods (e.g. Google Chrome Web Store), Maskbook website, third-party implementations of Maskbook, or other first-party implementations of Maskbook which are engineered to work in alternative environments (e.g. web browsers and Google Android).
 
+## Definitions
+
+Phrase                          | Definition
+------------------------------- | ----------
+SNS                             | Social network service, e.g. Facebook and Twitter.
+
 ## Information Being Collected by Maskbook the Extension Software
 
 The iOS App collects the following information and store them locally only and will not send them over network, except for which are specified in other sections. These information are collected for and only for the fulfillment of functionalities of the iOS App.
 
-- Your Facebook profile metadata, including name, username, avatar, etc.
-- Your Facebook timeline information, including posts, comments under posts, etc.
+- Your SNS profile metadata, including name, username, avatar, etc.
+- Your SNS timeline information, including posts, comments under posts, etc.
 - Information you generate and/or create with Maskbook the Extension Software.
 - Information you transfer from alternative implementations of Maskbook.
 
@@ -24,8 +32,8 @@ Definition: An intermediary service is an online network service which is design
 Some information are sent to intermediary services over network, for and only for the fulfillment of functionalities of Maskbook the iOS App.
 
 - Your Maskbook public key.
-- The URL of your Facebook or Twitter profile.
-- The URL of your Facebook or Twitter account ownership proof post.
+- The URL of your SNS profile.
+- The URL of your SNS account ownership proof post.
 - Un-anonymized recipient-specific asymmetric ciphers (ECDH) which encrypt the post-encryption keys (AES). (Until v1.6.0)
 - Anonymized recipient-specific asymmetric ciphers (ECDH) which encrypt the post-encryption keys (AES). (Since v1.6.0)
 

@@ -1,4 +1,6 @@
-# Maskbook (Browser Extension)<br>Copyright Disclaimer
+[Homepage](../../) / [Maskbook](../) / Maskbook Plugin "File Service" Copyright Disclaimer
+
+# Maskbook Plugin "File Service"<br>Copyright Disclaimer
 
 Last Updated on **Jul 08, 2020**
 
@@ -7,9 +9,10 @@ Copyright &copy; 2020 Dimension.im &amp; miscellaneous contributors;
 published under [GNU AGPL 3.0 license](https://www.gnu.org/licenses/agpl-3.0.en.html).
 The source code is included in the Maskbook software (maskbook.com).
 
-No one except the origial uploader is responsible for copyright innocence.
+No one except the original uploader is responsible for copyright innocence.
 If you consider this file to be infringing your copyright,
 you may communicate with the specific web hosting provider for DMCA takedown notification.
+You can obtain web hosting provider information through NSLOOKUP and WHOIS.
 
 ## Changes to this Statement / Contact Us
 

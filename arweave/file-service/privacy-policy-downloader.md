@@ -1,4 +1,6 @@
-# Maskbook (Browser Extension)<br>Privacy Policy for Downloaders
+[Homepage](../../) / [Maskbook](../) / Maskbook Plugin "File Service" Privacy Policy for Downloaders
+
+# Maskbook Plugin "File Service"<br>Privacy Policy for Downloaders
 
 Last Updated on **Jul 07, 2020**
 

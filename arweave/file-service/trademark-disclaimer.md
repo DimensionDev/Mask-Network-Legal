@@ -1,4 +1,6 @@
-# Maskbook (Browser Extension)<br>Trademark Disclaimer
+[Homepage](../../) / [Maskbook](../) / Maskbook Plugin "File Service" Trademark Disclaimer
+
+# Maskbook Plugin "File Service"<br>Trademark Disclaimer
 
 Last Updated on **Jul 08, 2020**
 
