@@ -6,12 +6,12 @@ This [repository](https://github.com/DimensionDev/Maskbook-Legal) includes legal
 
 This table includes legal documents of Maskbook the software itself and essential online services.
 
-- **Privacy Policy**
+- **Maskbook Privacy Policy**
 
-  - [Maskbook (Browser Extension) Privacy Policy](maskbook/privacy-policy-browser.md)
-  - [Maskbook (iOS) Privacy Policy](maskbook/privacy-policy-ios.md)
+  - [Browser extension](maskbook/privacy-policy-browser.md)
+  - [iOS app](maskbook/privacy-policy-ios.md)
 
-- **Visual Identity**
+- **Maskbook Visual Identity**
 
   - [Appendix 1: Copyright of Text](https://dimensiondev.github.io/Maskbook-VI/#appendix-1-copyright-of-text)
   - [Appendix 2: Copyright of Images](https://dimensiondev.github.io/Maskbook-VI/#appendix-2-copyright-of-images)
