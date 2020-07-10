@@ -2,7 +2,6 @@
 
 # Maskbook Plugin "File Service"<br>Privacy Policy for Uploader
 
-
 Last Updated on **Jul 07, 2020**
 
 ## Coverage
