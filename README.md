@@ -2,11 +2,20 @@
 
 This repository includes legal documents and notices for cooperation-based products
 
-## Entries
+## Core Entries
 
-| Partner                        | List of Documents                       |
-| ------------------------------ | --------------------------------------- |
-| [Arweave](https://arweave.org) | <https://partner.maskbook.com/arweave/> |
+This table includes legal documents of Maskbook the software itself and essential online services.
+
+- **Privacy Policy**
+  - [Maskbook (Browser Extension) Privacy Policy](https://legal.maskbook.com/)
+
+## Partner Entries
+
+This table includes legal documents of partnership-based components.
+
+| Partner                        | List of Documents
+| ------------------------------ | ---------------------------------------
+| [Arweave](https://arweave.org) | <https://legal.maskbook.com/arweave/>
 
 ## Notes
 
