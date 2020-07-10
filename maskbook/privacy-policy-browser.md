@@ -2,11 +2,17 @@
 
 # Maskbook (Browser Extension)<br>Privacy Policy
 
-Last Updated on **Jan 24, 2020**
+Last Updated on **Jul 10, 2020**
 
 ## Coverage
 
 This privacy policy document covers first-party implementations of Maskbook the Extension Software, which are engineered to work with web browsers, e.g. Google Chrome, Mozilla Firefox. It does not cover distribution methods (e.g. Google Chrome Web Store), Maskbook website, third-party implementations of Maskbook, or other first-party implementations of Maskbook which are engineered to work in alternative environments (e.g. Apple iOS and Google Android).
+
+## Introduction
+
+Maskbook will collect some data when you use, but the developers of Maskbook have no access to them. The collected data are stored locally, except for the data which are necessary for enabling your friends to decrypt the posts you shared.
+
+The data being collected include: Your social network profile URL, the Maskbook public keys of your contacts (friends, who you follow, and who follow you), the relations between you and your contacts, the cleartext of your posts, the encryption keys of your posts, and the data managed by each Plugin in Maskbook (they have their own privacy policies).
 
 ## Definitions
 
