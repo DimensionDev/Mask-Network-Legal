@@ -1,6 +1,6 @@
-[Homepage](../../) / [Partner: Arweave](../) / [Maskbook Plugin "File Service"](./) / Privacy Policy for Uploaders
+[Homepage](../../) / [Partner: Arweave](../) / [Maskbook Plugin "File Service"](./) / Privacy Policy for Uploader
 
-# Maskbook Plugin "File Service"<br>Privacy Policy for Uploaders
+# Maskbook Plugin "File Service"<br>Privacy Policy for Uploader
 
 
 Last Updated on **Jul 07, 2020**
