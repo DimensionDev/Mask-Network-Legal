@@ -1,4 +1,4 @@
-[Homepage](../../) / [Maskbook](../) / Maskbook (iOS) Privacy Policy
+[Homepage](../../) / [Maskbook](./) / Maskbook (iOS) Privacy Policy
 
 # Maskbook (iOS)<br>Privacy Policy
 

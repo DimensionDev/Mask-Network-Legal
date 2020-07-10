@@ -1,4 +1,4 @@
-[Homepage](../../) / [Maskbook](../) / Maskbook (Browser Extension) Privacy Policy
+[Homepage](../../) / [Maskbook](./) / Maskbook (Browser Extension) Privacy Policy
 
 # Maskbook (Browser Extension)<br>Privacy Policy
 
