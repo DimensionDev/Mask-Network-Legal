@@ -1,4 +1,7 @@
-# Maskbook Legal Documents
+---
+layout: page
+title: "Maskbook Legal Documents"
+---
 
 This [repository](https://github.com/DimensionDev/Maskbook-Legal) includes legal documents and notices for cooperation-based products.
 
