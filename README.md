@@ -7,16 +7,16 @@ This [repository](https://github.com/DimensionDev/Maskbook-Legal) includes legal
 This table includes legal documents of Maskbook the software itself and essential online services.
 
 - **Privacy Policy**
-  - [Maskbook (Browser Extension) Privacy Policy](maskbook/privacy-policy-browser)
-  - [Maskbook (iOS) Privacy Policy](maskbook/privacy-policy-ios)
+  - [Maskbook (Browser Extension) Privacy Policy](maskbook/privacy-policy-browser.md)
+  - [Maskbook (iOS) Privacy Policy](maskbook/privacy-policy-ios.md)
 
 ## Partner Entries
 
 This table includes legal documents of partnership-based components.
 
-| Partner                        | List of Documents
-| ------------------------------ | ---------------------------------------
-| [Arweave](https://arweave.org) | <https://legal.maskbook.com/arweave/>
+| Partner                        | List of Documents                     |
+| ------------------------------ | ------------------------------------- |
+| [Arweave](https://arweave.org) | <https://legal.maskbook.com/arweave/> |
 
 ## Notes
 

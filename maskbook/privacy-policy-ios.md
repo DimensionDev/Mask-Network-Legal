@@ -16,9 +16,9 @@ The data being collected include: Your social network profile URL, the Maskbook 
 
 ## Definitions
 
-Phrase                          | Definition
-------------------------------- | ----------
-SNS                             | Social network service, e.g. Facebook and Twitter.
+| Phrase | Definition                                         |
+| ------ | -------------------------------------------------- |
+| SNS    | Social network service, e.g. Facebook and Twitter. |
 
 ## Information Being Collected by Maskbook the Extension Software
 
