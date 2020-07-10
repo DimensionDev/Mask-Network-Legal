@@ -1,8 +1,6 @@
 # Maskbook
 
-Official website: <https://maskbook.com>
+Official website: <https://maskbook.com>.
 
-## List of Maskbook Privacy Policy Documents
-
-- [Privacy Policy (Browser Extension)](privacy-policy-browser)
-- [Privacy Policy (iOS App)](privacy-policy-ios)
+- [Maskbook (Browser Extension) Privacy Policy](privacy-policy-browser)
+- [Maskbook (iOS App) Privacy Policy](privacy-policy-ios)

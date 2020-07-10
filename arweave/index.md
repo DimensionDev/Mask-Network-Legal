@@ -1,6 +1,6 @@
-# Arweave
+# Partner: Arweave
 
-Official website: <https://arweave.org>
+Official website: <https://arweave.org>.
 
 ## List of Products
 
