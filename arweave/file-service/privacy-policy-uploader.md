@@ -1,4 +1,4 @@
-[Homepage](../../) / [Maskbook](../) / Maskbook Plugin "File Service" Privacy Policy for Uploaders
+[Homepage](../../) / [Partner: Arweave](../) / [Maskbook Plugin "File Service"](./) / Privacy Policy for Uploaders
 
 # Maskbook Plugin "File Service"<br>Privacy Policy for Uploaders
 
