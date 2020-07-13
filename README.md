@@ -28,3 +28,4 @@ This table includes legal documents of partnership-based components.
 ## Notes
 
 - These document may be updated without explicit notification.
+- Discussions may happen at [DimensionDev/Maskbook-Talks](https://github.com/DimensionDev/Maskbook-Talks)
