@@ -6,7 +6,7 @@ Last Updated on **Jul 15, 2020**
 
 ## Coverage
 
-This privacy policy document covers first-party implementations of Maskbook the iOS App, which are engineered to work on iOS devices from Apple Inc (CA, USA), e.g. iPhone and iPad. It does not cover distribution methods (e.g. App Store), Maskbook website, third-party implementations of Maskbook, or other first-party implementations of Maskbook which are engineered to work in alternative environments (e.g. web browsers and Google Android).
+This privacy policy document covers first-party implementations of Maskbook the Android App, which are engineered to work on Android devices e.g. cellphones & mobile tablet devices. It does not cover distribution methods (e.g. Google Play Store), Maskbook website, third-party implementations of Maskbook, or other first-party implementations of Maskbook which are engineered to work in alternative environments (e.g. web browsers and Apple iOS).
 
 ## Introduction
 
@@ -22,7 +22,7 @@ The data being collected include: Your social network profile URL, the Maskbook 
 
 ## Information Being Collected by Maskbook the Extension Software
 
-The iOS App collects the following information and store them locally only and will not send them over network, except for which are specified in other sections. These information are collected for and only for the fulfillment of functionalities of the iOS App.
+The Android App collects the following information and store them locally only and will not send them over network, except for which are specified in other sections. These information are collected for and only for the fulfillment of functionalities of the Android App.
 
 - Your SNS profile metadata, including name, username, avatar, etc.
 - Your SNS timeline information, including posts, comments under posts, etc.
@@ -35,7 +35,7 @@ Counterparts of such information on other social networks may also be collected,
 
 Definition: An intermediary service is an online network service which is designed to work with Maskbook software implementations in order to allow Maskbook work properly (or efficiently).
 
-Some information are sent to intermediary services over network, for and only for the fulfillment of functionalities of Maskbook the iOS App.
+Some information are sent to intermediary services over network, for and only for the fulfillment of functionalities of Maskbook the Android App.
 
 - Your Maskbook public key.
 - The URL of your SNS profile.
@@ -43,7 +43,7 @@ Some information are sent to intermediary services over network, for and only fo
 - Un-anonymized recipient-specific asymmetric ciphers (ECDH) which encrypt the post-encryption keys (AES). (Until v1.6.0)
 - Anonymized recipient-specific asymmetric ciphers (ECDH) which encrypt the post-encryption keys (AES). (Since v1.6.0)
 
-Maskbook the iOS App is designed to work with alternative intermediary services. Alternative intermediary services are those intermediary services which are operated by parties other than the developer of Maskbook. Maskbook will discover alternative intermediary services when first-party intermediary services (those intermediary services provided by the developer of Maskbook) are unavailable or unstable. These alternative intermediary services will be able to obtain the same information which are sent to first-party intermediary services, no less, no more.
+Maskbook the Android App is designed to work with alternative intermediary services. Alternative intermediary services are those intermediary services which are operated by parties other than the developer of Maskbook. Maskbook will discover alternative intermediary services when first-party intermediary services (those intermediary services provided by the developer of Maskbook) are unavailable or unstable. These alternative intermediary services will be able to obtain the same information which are sent to first-party intermediary services, no less, no more.
 
 ## Information Being Collected by Alternative Parties
 
@@ -51,6 +51,6 @@ As long as the online services provided by the developers of Maskbook run on Paa
 
 ## Changes to this Statement / Contact Us
 
-We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will provide notice on this website, prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If you continue to use Maskbook the iOS App after those changes are in effect, you agree to the revised policy.
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will provide notice on this website, prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If you continue to use Maskbook the Android App after those changes are in effect, you agree to the revised policy.
 
 If you have any question about this policy, please contact [info@dimension.im](mailto:info@dimension.im).
