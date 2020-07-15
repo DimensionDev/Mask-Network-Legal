@@ -1,6 +1,6 @@
-[Homepage](../../) / [Maskbook](./) / Maskbook (iOS) Privacy Policy
+[Homepage](../../) / [Maskbook](./) / Maskbook (Android) Privacy Policy
 
-# Maskbook (iOS)<br>Privacy Policy
+# Maskbook (Android)<br>Privacy Policy
 
 Last Updated on **Jul 15, 2020**
 
