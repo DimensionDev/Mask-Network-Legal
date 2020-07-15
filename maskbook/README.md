@@ -8,3 +8,4 @@ Official website: <https://maskbook.com>.
 
 - [Maskbook (Browser Extension) Privacy Policy](privacy-policy-browser.md)
 - [Maskbook (iOS App) Privacy Policy](privacy-policy-ios.md)
+- [Maskbook (Android App) Privacy Policy](privacy-policy-ios.md)

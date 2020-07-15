@@ -10,6 +10,7 @@ This table includes legal documents of Maskbook the software itself and essentia
 
   - [Browser extension](maskbook/privacy-policy-browser.md)
   - [iOS app](maskbook/privacy-policy-ios.md)
+  - [Android app](maskbook/privacy-policy-android.md)
 
 - **Maskbook Visual Identity**
 
