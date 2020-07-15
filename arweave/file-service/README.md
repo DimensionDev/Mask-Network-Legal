@@ -2,6 +2,7 @@
 
 # Maskbook Plugin "File Service"
 
+- [Terms of Use](plugin-terms.md)
 - [Copyright Disclaimer](copyright-disclaimer.md)
 - [Trademark Disclaimer](trademark-disclaimer.md)
 - [Privacy Policy for Downloader](privacy-policy-downloader.md)
