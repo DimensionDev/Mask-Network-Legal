@@ -2,7 +2,7 @@
 
 # Maskbook Plugin "File Service"<br>Terms of Use
 
-Last Updated on **Jul 15, 2020**
+Last Updated on **Jul 23, 2020**
 
 ## Introduction
 
