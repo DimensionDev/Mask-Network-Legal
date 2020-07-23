@@ -32,6 +32,11 @@ This document includes the terms of using the Maskbook Plugin "File Service" (co
 
 - You are solely responsible for not violating the law when using this service. This service does not assume any liability for any event, e.g. loss of data & damage of business interest.
 
+## Miscellaneous Disclaimers
+
+- Due to technical limitations, the upload progress can not be very accurate.
+- The definition of file size units (MB, KB, etc) can be platform-specific. Some systems define 1 MB = 1024 KB and 1 KB = 1024 B, while others define 1 MB = 1000 KB and 1 KB = 1000 B. You may see different sizes for the same file.
+
 ## Changes to this Statement / Contact Us
 
 We may update these terms without explicit notifications. You should frequently check if there is any update, especially after updating Maskbook versions.
