@@ -2,7 +2,7 @@
 
 # Maskbook Plugin "File Service"<br>Terms of Use
 
-Last Updated on **Jul 15, 2020**
+Last Updated on **Jul 23, 2020**
 
 ## Introduction
 
@@ -35,6 +35,11 @@ This document includes the terms of using the Maskbook Plugin "File Service" (co
 ## Law Enforcement
 
 - This service is a combination of multiple independent sub-services. The providers of these sub-services (including and without limitation to Dimension and Arweave) may comply with court orders and search warrants from law enforcement authorities.
+
+## Miscellaneous Disclaimers
+
+- Due to technical limitations, the upload progress cannot be very accurate.
+- The definition of file size units (MB, KB, etc) can be platform-specific. Some systems use [1000-based definitions](https://en.wikipedia.org/wiki/Metric_prefix), while others use [1024-based definitions](https://en.wikipedia.org/wiki/Binary_prefix). You may see different sizes for the same file.
 
 ## Changes to this Statement / Contact Us
 
