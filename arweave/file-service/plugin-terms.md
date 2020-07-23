@@ -32,6 +32,10 @@ This document includes the terms of using the Maskbook Plugin "File Service" (co
 
 - You are solely responsible for not violating the law when using this service. This service does not assume any liability for any event, e.g. loss of data & damage of business interest.
 
+## Law Enforcement
+
+- This service is a combination of multiple independent sub-services. The providers of these sub-services (including and without limitation to Dimension and Arweave) may comply with court orders and search warrants from law enforcement authorities.
+
 ## Changes to this Statement / Contact Us
 
 We may update these terms without explicit notifications. You should frequently check if there is any update, especially after updating Maskbook versions.
