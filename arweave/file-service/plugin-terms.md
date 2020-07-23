@@ -35,7 +35,7 @@ This document includes the terms of using the Maskbook Plugin "File Service" (co
 ## Miscellaneous Disclaimers
 
 - Due to technical limitations, the upload progress cannot be very accurate.
-- The definition of file size units (MB, KB, etc) can be platform-specific. Some systems define 1 MB = 1024 KB and 1 KB = 1024 B, while others define 1 MB = 1000 KB and 1 KB = 1000 B. You may see different sizes for the same file.
+- The definition of file size units (MB, KB, etc) can be platform-specific. Some systems use [1000-based definitions](https://en.wikipedia.org/wiki/Metric_prefix), while others use [1024-based definitions](https://en.wikipedia.org/wiki/Binary_prefix). You may see different sizes for the same file.
 
 ## Changes to this Statement / Contact Us
 
