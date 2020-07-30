@@ -8,6 +8,8 @@ Last Updated on **Jul 23, 2020**
 
 This is the terms of use for Maskbook Plugin "File Service" and the online service behind it.
 
+This service is built over [Arweave](https://arweave.org) blockchain solutions.
+
 ## Definitions
 
 - **This service**: The service "Maskbook File Service" hereby being described.
