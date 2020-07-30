@@ -38,6 +38,10 @@ This document includes the terms of using the Maskbook Plugin "File Service" (co
 
 - This service is a combination of multiple independent sub-services. The providers of these sub-services (including and without limitation to Dimension and Arweave) may comply with court orders and search warrants from law enforcement authorities.
 
+## Technical Summary
+
+This Plugin encrypts the selected file with an AES Key (FileKey) to get Encrypted File (EF) and publishes EF on the Arweave network. Arweave provides a file storage service and an HTTPS interface to retrieve stored files. Also, this Plugin generates a Landing Page (LP) and publishes it on Arweave. The Plugin writes FileKey and the URL of the LP into the Post, so that everyone who can decrypt the post can visit the Landing Page. When clicking "Download File" in the Snippet under the Post, Maskbook will open the Landing Page. The Landing Page requests all active tabs in the browser to present the FileKey. Maskbook will receive this request and will provide the FileKey. The Landing Page gets the FileKey and tries verifying the given FileKey. If it is correct, the Landing Page will download the EF from Arweave and will decrypt it. The visitor can then preview it and save it to the local machine. 
+
 ## Miscellaneous Disclaimers
 
 - Due to technical limitations, the upload progress cannot be very accurate.
