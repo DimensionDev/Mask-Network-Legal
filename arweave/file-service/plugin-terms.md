@@ -54,6 +54,7 @@ The Landing Page gets the FileKey and tries verifying the given FileKey with <ab
 
 - Due to technical limitations, the upload progress cannot be very accurate.
 - The definition of file size units (<abbr title="Mega-byte">MB</abbr>, <abbr title="Kilo-byte">KB</abbr>, etc) can be platform-specific. Some systems use [1000-based definitions](https://en.wikipedia.org/wiki/Metric_prefix), while others use [1024-based definitions](https://en.wikipedia.org/wiki/Binary_prefix). You may see different sizes for the same file.
+- This service does not manage any data beyond the range specified in this document. Maskbook the software might manage other necessary data, and is beyond the control of this Plugin and/or this Service.
 
 ## Changes to this Statement / Contact Us
 
