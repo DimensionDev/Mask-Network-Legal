@@ -22,6 +22,13 @@ The developers of Maskbook maintain a cache service to allow the file to be down
 
 You may learn more about the privacy policy of Arweave at <https://arweave.org>.
 
+## File Security Disclaimer
+
+This Plugin encrypts the files you select before uploading to this Service, unless you explicitly disable encryption in the file selection procedure. As long as the file is encrypted, this Service and any other party is unable to decrypt the file, with certain exceptions. In the following circumstances, the file encryption will not be secure enough:
+
+- [P=NP](https://en.wikipedia.org/wiki/P_versus_NP_problem).
+- Any of the selected cryptographic algorithms (HMAC-SHA256, AES-256-GCM, etc) has [backdoors](https://en.wikipedia.org/wiki/Backdoor_(computing)).
+
 ## Changes to this Statement / Contact Us
 
 We may update this Privacy Policy to reflect changes to our information practices.

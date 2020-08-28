@@ -50,6 +50,13 @@ When clicking "Download File" in the Snippet under the Post, Maskbook will open 
 
 The Landing Page gets the FileKey and tries verifying the given FileKey with <abbr title="HMAC-SHA256 hash">HH</abbr>. If it is correct, the Landing Page will download the <abbr title="Encrypted File">EF</abbr> from Arweave and will decrypt it. The visitor can then preview it and save it to the local machine.
 
+## File Security Disclaimer
+
+This Plugin encrypts the files you select before uploading to this Service, unless you explicitly disable encryption in the file selection procedure. As long as the file is encrypted, this Service and any other party is unable to decrypt the file, with certain exceptions. In the following circumstances, the file encryption will not be secure enough:
+
+- [P=NP](https://en.wikipedia.org/wiki/P_versus_NP_problem).
+- Any of the selected cryptographic algorithms (HMAC-SHA256, AES-256-GCM, etc) has [backdoors](https://en.wikipedia.org/wiki/Backdoor_(computing)).
+
 ## Miscellaneous Disclaimers
 
 - Due to technical limitations, the upload progress cannot be very accurate.
