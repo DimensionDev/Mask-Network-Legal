@@ -1,24 +1,24 @@
-[Homepage](../../) / [Partner: Arweave](../) / [Maskbook Plugin "File Service"](./) / Terms of Use
+[Homepage](../../) / [Partner: Arweave](../) / [Mask Network Plugin "File Service"](./) / Terms of Use
 
-# Maskbook Plugin "File Service"<br>Terms of Use
+# Mask Network Plugin "File Service"<br>Terms of Use
 
-Last Updated on **Jul 30, 2020**
+Last Updated on **Dec 18, 2020**
 
 ## Introduction
 
-This is the terms of use for Maskbook Plugin "File Service" and the online service behind it.
+This is the terms of use for Mask Network Plugin "File Service" and the online service behind it.
 
 This service is built over [Arweave](https://arweave.org) blockchain solutions.
 
 ## Definitions
 
-- **This service**: The service "Maskbook File Service" hereby being described.
+- **This service**: The service "Mask File Service" hereby being described.
 - **We**: The maintainer of this service, i.e. [Dimension.im](https://dimension.im/).
 - **You**: The end user hereby using this service.
 
 ## Coverage
 
-This document includes the terms of using the Maskbook Plugin "File Service" (com.maskbook.fileservice). Maskbook itself and other plugins are not covered here.
+This document includes the terms of using the Mask Network Plugin "File Service" (com.maskbook.fileservice). Mask Network itself and other plugins are not covered here.
 
 ## Copyright
 
@@ -46,7 +46,7 @@ This Plugin encrypts the selected file with an AES-256-GCM Key (FileKey) to get 
 
 ### Downloading
 
-When clicking "Download File" in the Snippet under the Post, Maskbook will open the Landing Page. The Landing Page requests all active tabs in the browser to present the FileKey. Maskbook will receive this request and will provide the FileKey.
+When clicking "Download File" in the Snippet under the Post, Mask Network will open the Landing Page. The Landing Page requests all active tabs in the browser to present the FileKey. Mask Network will receive this request and will provide the FileKey.
 
 The Landing Page gets the FileKey and tries verifying the given FileKey with <abbr title="HMAC-SHA256 hash">HH</abbr>. If it is correct, the Landing Page will download the <abbr title="Encrypted File">EF</abbr> from Arweave and will decrypt it. The visitor can then preview it and save it to the local machine.
 
@@ -54,10 +54,10 @@ The Landing Page gets the FileKey and tries verifying the given FileKey with <ab
 
 - Due to technical limitations, the upload progress cannot be very accurate.
 - The definition of file size units (<abbr title="Mega-byte">MB</abbr>, <abbr title="Kilo-byte">KB</abbr>, etc) can be platform-specific. Some systems use [1000-based definitions](https://en.wikipedia.org/wiki/Metric_prefix), while others use [1024-based definitions](https://en.wikipedia.org/wiki/Binary_prefix). You may see different sizes for the same file.
-- This service does not manage any data beyond the range specified in this document. Maskbook the software might manage other necessary data, and is beyond the control of this Plugin and/or this Service.
+- This service does not manage any data beyond the range specified in this document. Mask Network the software might manage other necessary data, and is beyond the control of this Plugin and/or this Service.
 
 ## Changes to this Statement / Contact Us
 
-We may update these terms without explicit notifications. You should frequently check if there is any update, especially after updating Maskbook versions.
+We may update these terms without explicit notifications. You should frequently check if there is any update, especially after updating Mask Network versions.
 
 If you have any question about this policy, please contact [info@dimension.im](mailto:info@dimension.im).
