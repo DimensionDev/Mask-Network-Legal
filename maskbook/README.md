@@ -1,11 +1,11 @@
-[Homepage](../) / Maskbook
+[Homepage](../) / Mask Network
 
-# Maskbook
+# Mask Network
 
-Official website: <https://maskbook.com>.
+Official website: <https://mask.io>.
 
 ## List of Documents
 
-- [Maskbook (Browser Extension) Privacy Policy](privacy-policy-browser.md)
-- [Maskbook (iOS App) Privacy Policy](privacy-policy-ios.md)
-- [Maskbook (Android App) Privacy Policy](privacy-policy-ios.md)
+- [Mask Network (Browser Extension) Privacy Policy](privacy-policy-browser.md)
+- [Mask Network (iOS App) Privacy Policy](privacy-policy-ios.md)
+- [Mask Network (Android App) Privacy Policy](privacy-policy-ios.md)

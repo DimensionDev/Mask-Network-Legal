@@ -1,6 +1,6 @@
-[Homepage](../../) / [Partner: Arweave](../) / Maskbook Plugin "File Service"
+[Homepage](../../) / [Partner: Arweave](../) / Mask Network Plugin "File Service"
 
-# Maskbook Plugin "File Service"
+# Mask Network Plugin "File Service"
 
 - [Terms of Use](plugin-terms.md)
 - [Copyright Disclaimer](copyright-disclaimer.md)
