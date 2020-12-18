@@ -12,7 +12,7 @@ This service is built over [Arweave](https://arweave.org) blockchain solutions.
 
 ## Definitions
 
-- **This service**: The service "Mask Network File Service" hereby being described.
+- **This service**: The service "Mask File Service" hereby being described.
 - **We**: The maintainer of this service, i.e. [Dimension.im](https://dimension.im/).
 - **You**: The end user hereby using this service.
 

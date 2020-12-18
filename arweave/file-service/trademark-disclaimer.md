@@ -1,6 +1,6 @@
 [Homepage](../../) / [Partner: Arweave](../) / [Mask Network Plugin "File Service"](./) / Mask Network Plugin "File Service" Trademark Disclaimer
 
-# Mask Plugin "File Service"<br>Trademark Disclaimer
+# Mask Network Plugin "File Service"<br>Trademark Disclaimer
 
 Last Updated on **Dec 18, 2020**
 
