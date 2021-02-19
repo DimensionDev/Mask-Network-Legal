@@ -22,9 +22,9 @@ This table includes legal documents of Mask Network the software itself and esse
 
 This table includes legal documents of partnership-based components.
 
-| Partner                        | List of Documents                     |
-| ------------------------------ | ------------------------------------- |
-| [Arweave](https://arweave.org) | <https://legal.maskbook.com/arweave/> |
+| Partner                        | List of Documents                |
+| ------------------------------ | -------------------------------- |
+| [Arweave](https://arweave.org) | <https://legal.mask.io/arweave/> |
 
 ## Notes
 
