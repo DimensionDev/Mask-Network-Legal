@@ -6,7 +6,7 @@ Last Updated on **Oct 28, 2021**
 
 Dear user,
 
-Thank you for choosing the service of **Mask Network**. The "Mask Network Service Agreement" (hereinafter referred to as the "Agreement") is signed by https://mask.io (hereinafter referred to as "**Mask Network**" or "**we**") and the user (hereinafter referred to as "**user**" or "**you**"). The agreement establishes the legal effect of contract between you and Mask Network.
+Thank you for choosing the service of **Mask Network**. The "Mask Network Service Agreement" (hereinafter referred to as the "Agreement") is signed by <https://mask.io> (hereinafter referred to as "**Mask Network**" or "**we**") and the user (hereinafter referred to as "**user**" or "**you**"). The agreement establishes the legal effect of contract between you and Mask Network.
 
 Mask Network hereby reminds you that before using Mask Network (hereinafter referred to as "Mask Network" or "the software"), please carefully read the "Mask Network Service Agreement" and the relevant terms mentioned later especially those in "Disclaimer and Limitation of Liability", to ensure that you fully understand the terms of this agreement and take risks into consideration autonomously.
 
@@ -18,7 +18,7 @@ Mask Network hereby reminds you that before using Mask Network (hereinafter refe
 
 3. This agreement can be updated by Mask Network at any time. Once the modified agreement is published on Mask Network, it will take effect immediately without further notice. After Mask Network announces the revised agreement terms, if you do not accept the revised terms, please stop using Mask Network immediately. Your continued use of Mask Network will be deemed that you accept and agree to the revised terms.
 
-4. If you are under the age of 18, or if you have no civil capacity or limited capacity of civil conduct, please use Mask Network under the guidance of your parents or guardians. Your continued use of Mask Network will be deemed  that your parents or guardians have been approved such use.
+4. If you are under the age of 18, or if you have no civil capacity or limited capacity of civil conduct, please use Mask Network under the guidance of your parents or guardians. Your continued use of Mask Network will be deemed that your parents or guardians have been approved such use.
 
 ## B. Definition
 
@@ -123,48 +123,48 @@ Users should learn about the following common problems when accepting the above 
 
 1. **Create or Import A Wallet**
 
-   a. You have the right to create and/or import a wallet through Mask Network on your mobile device, and you have the right to use your own wallet to conduct transactions such as transfer and receiving on the blockchain through the Mask Network application. Mask Network may develop different software versions for different terminal devices. You should choose to download and install the appropriate version according to your actual needs. If you obtain a software or an installation program with the same name as the Mask Network software from an unauthorized third party, Mask Network cannot guarantee the normal use of the software, nor its security, and you shall be responsible for any losses and damages and costs caused by the software.
+    a. You have the right to create and/or import a wallet through Mask Network on your mobile device, and you have the right to use your own wallet to conduct transactions such as transfer and receiving on the blockchain through the Mask Network application. Mask Network may develop different software versions for different terminal devices. You should choose to download and install the appropriate version according to your actual needs. If you obtain a software or an installation program with the same name as the Mask Network software from an unauthorized third party, Mask Network cannot guarantee the normal use of the software, nor its security, and you shall be responsible for any losses and damages and costs caused by the software.
 
-   b. After the new version of this software is released, the old version of the software may not be available to use. Mask Network does not guarantee the security, continued availability and corresponding customer service of the old version of the software. Please back up your existing data at any time, check and download the latest version.
+    b. After the new version of this software is released, the old version of the software may not be available to use. Mask Network does not guarantee the security, continued availability and corresponding customer service of the old version of the software. Please back up your existing data at any time, check and download the latest version.
 
 2. **Use**
 
-   a. Users should properly keep the mobile device, wallet password, private key, mnemonic phrase, Keystore and other information by themselves. Mask Network is not responsible for keeping the above information for users. All risks, liabilities, losses, and expenses caused by your loss of mobile device, active or passive disclosure of wallet password, forgetting wallet password, private key, mnemonic phrase and Keystore, or attack and fraud by others shall be borne by you.
+    a. Users should properly keep the mobile device, wallet password, private key, mnemonic phrase, Keystore and other information by themselves. Mask Network is not responsible for keeping the above information for users. All risks, liabilities, losses, and expenses caused by your loss of mobile device, active or passive disclosure of wallet password, forgetting wallet password, private key, mnemonic phrase and Keystore, or attack and fraud by others shall be borne by you.
 
-   b. Follow the information prompts. You understand and agree to follow the information prompts provided by Mask Network and operate in accordance with the content of the information prompts. Otherwise, all risks, responsibilities, losses and expenses shall be borne by you.
+    b. Follow the information prompts. You understand and agree to follow the information prompts provided by Mask Network and operate in accordance with the content of the information prompts. Otherwise, all risks, responsibilities, losses and expenses shall be borne by you.
 
-   c. You understand and acknowledge that Mask Network is not obliged to perform due diligence on the linked third-party DApp services or transactions, and you should make rational investment decisions and bear the corresponding investment risks independently.
+    c. You understand and acknowledge that Mask Network is not obliged to perform due diligence on the linked third-party DApp services or transactions, and you should make rational investment decisions and bear the corresponding investment risks independently.
 
-   d. Actively complete identity verification. When Mask Network reasonably believes that your transaction behavior or transaction condition is abnormal, or that your identity information is suspicious, or that your ID or other necessary documents should be verified, please actively cooperate with Mask Network to verify your valid ID or other necessary documents and complete the relevant identity verification in time. Otherwise Mask Network has the right to suspend or terminate the service provided to you.
+    d. Actively complete identity verification. When Mask Network reasonably believes that your transaction behavior or transaction condition is abnormal, or that your identity information is suspicious, or that your ID or other necessary documents should be verified, please actively cooperate with Mask Network to verify your valid ID or other necessary documents and complete the relevant identity verification in time. Otherwise Mask Network has the right to suspend or terminate the service provided to you.
 
 3. **Transfer**
 
-   a. You understand that because of the "irrevocable" attribute of blockchain-based operations, when you use Mask Network’s transfer function, you should bear the consequences caused by your mistakes by yourself (including but not limited to wrong transfer address, your own choice of the node server).
+    a. You understand that because of the "irrevocable" attribute of blockchain-based operations, when you use Mask Network’s transfer function, you should bear the consequences caused by your mistakes by yourself (including but not limited to wrong transfer address, your own choice of the node server).
 
-   b. You understand that when using the Mask Network service, the following situations may lead to "transaction failure" or "packing timeout" in transfers:
+    b. You understand that when using the Mask Network service, the following situations may lead to "transaction failure" or "packing timeout" in transfers:
 
-        i.   Insufficient wallet balance;
-        ii.  Insufficient transaction miner fees;
-        iii. The block chain failed to execute the contract code;
-        iv.  Technical failures with network, equipment, etc.;
-        v.   Blockchain network congestion, failure and other reasons cause transactions to be abandoned;
-        vi.  Your address or the address of the counterparty is identified as a special address, such as a high-risk address, an exchange address, an ICO address, a Token address, etc.
+         i.   Insufficient wallet balance;
+         ii.  Insufficient transaction miner fees;
+         iii. The block chain failed to execute the contract code;
+         iv.  Technical failures with network, equipment, etc.;
+         v.   Blockchain network congestion, failure and other reasons cause transactions to be abandoned;
+         vi.  Your address or the address of the counterparty is identified as a special address, such as a high-risk address, an exchange address, an ICO address, a Token address, etc.
 
-   c. You understand and acknowledge that Mask Network only provides you with transfer tools. After you use Mask Network to complete the transfer, Mask Network has completed all the obligations of the current service. Mask Network will not bear any obligations for other disputes.
+    c. You understand and acknowledge that Mask Network only provides you with transfer tools. After you use Mask Network to complete the transfer, Mask Network has completed all the obligations of the current service. Mask Network will not bear any obligations for other disputes.
 
 4. **Legal and Compliance**
 
-   You understand and acknowledge that you should follow the requirements of relevant laws, regulations and national policies when operating on Mask Network or using DApps on Mask Network to conduct transactions.
+    You understand and acknowledge that you should follow the requirements of relevant laws, regulations and national policies when operating on Mask Network or using DApps on Mask Network to conduct transactions.
 
 5. **Service Fees and Tax Liability**
 
-   a. Mask Network does not charge you any form of service fee or handling fee for the time being, and specific terms will be further agreed or announced when certain services need to be charged in the future;
+    a. Mask Network does not charge you any form of service fee or handling fee for the time being, and specific terms will be further agreed or announced when certain services need to be charged in the future;
 
-   b. When you use Mask Network to transfer funds, you should pay miner fees, and the amount is determined by you. Miner fees are collected by the relevant blockchain system;
+    b. When you use Mask Network to transfer funds, you should pay miner fees, and the amount is determined by you. Miner fees are collected by the relevant blockchain system;
 
-   c. You understand and acknowledge that under certain circumstances, if your transfer operation is not completed because of your environment and unstable network status, the relevant blockchain system will still charge miner fees;
+    c. You understand and acknowledge that under certain circumstances, if your transfer operation is not completed because of your environment and unstable network status, the relevant blockchain system will still charge miner fees;
 
-   d. You are responsible for paying all taxable expenses and other expenses incurred by you for trading on Mask Network.
+    d. You are responsible for paying all taxable expenses and other expenses incurred by you for trading on Mask Network.
 
 ## E. Risk Warning
 
@@ -262,7 +262,7 @@ Mask Network attaches great importance to the protection of user privacy. For re
 
 4. You understand and acknowledge that Mask Network is only used as a tool for your digital asset management. Mask Network cannot control the quality, safety or legality of products and services, and the authenticity or accuracy of information provided by third-party DApps, nor can we control the ability of the counterparty to fulfill its obligations under the agreement signed with you. All your transactions in third-party DApps are your personal behaviors, and a binding contractual relationship is made by and between you and your counterparty, not within Mask Network. Mask Network reminds you that you should use your own prudent judgment to determine the authenticity, legality and validity of the DApp and its related information when login. You shall bear all risks arising from your transaction with any third party.
 
-5. Mask Network may provide services to you and your counterparty at the same time. You agree to explicitly waive any actual or potential conflicts of interest from such actions that might exist, and you are not allowed to claim that Mask Network has legal flaws when providing services.   Mask Network shall have no any responsibility or duty of care hereof.
+5. Mask Network may provide services to you and your counterparty at the same time. You agree to explicitly waive any actual or potential conflicts of interest from such actions that might exist, and you are not allowed to claim that Mask Network has legal flaws when providing services. Mask Network shall have no any responsibility or duty of care hereof.
 
 6. Mask Network does not warrant as such below:
 
