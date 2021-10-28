@@ -121,13 +121,13 @@ Users should learn about the following common problems when accepting the above 
 
 ## D. Your Rights and Obligations
 
-1. **Create or Import A Wallet**
+1.  **Create or Import A Wallet**
 
     a. You have the right to create and/or import a wallet through Mask Network on your mobile device, and you have the right to use your own wallet to conduct transactions such as transfer and receiving on the blockchain through the Mask Network application. Mask Network may develop different software versions for different terminal devices. You should choose to download and install the appropriate version according to your actual needs. If you obtain a software or an installation program with the same name as the Mask Network software from an unauthorized third party, Mask Network cannot guarantee the normal use of the software, nor its security, and you shall be responsible for any losses and damages and costs caused by the software.
 
     b. After the new version of this software is released, the old version of the software may not be available to use. Mask Network does not guarantee the security, continued availability and corresponding customer service of the old version of the software. Please back up your existing data at any time, check and download the latest version.
 
-2. **Use**
+2.  **Use**
 
     a. Users should properly keep the mobile device, wallet password, private key, mnemonic phrase, Keystore and other information by themselves. Mask Network is not responsible for keeping the above information for users. All risks, liabilities, losses, and expenses caused by your loss of mobile device, active or passive disclosure of wallet password, forgetting wallet password, private key, mnemonic phrase and Keystore, or attack and fraud by others shall be borne by you.
 
@@ -137,7 +137,7 @@ Users should learn about the following common problems when accepting the above 
 
     d. Actively complete identity verification. When Mask Network reasonably believes that your transaction behavior or transaction condition is abnormal, or that your identity information is suspicious, or that your ID or other necessary documents should be verified, please actively cooperate with Mask Network to verify your valid ID or other necessary documents and complete the relevant identity verification in time. Otherwise Mask Network has the right to suspend or terminate the service provided to you.
 
-3. **Transfer**
+3.  **Transfer**
 
     a. You understand that because of the "irrevocable" attribute of blockchain-based operations, when you use Mask Network’s transfer function, you should bear the consequences caused by your mistakes by yourself (including but not limited to wrong transfer address, your own choice of the node server).
 
@@ -152,11 +152,11 @@ Users should learn about the following common problems when accepting the above 
 
     c. You understand and acknowledge that Mask Network only provides you with transfer tools. After you use Mask Network to complete the transfer, Mask Network has completed all the obligations of the current service. Mask Network will not bear any obligations for other disputes.
 
-4. **Legal and Compliance**
+4.  **Legal and Compliance**
 
     You understand and acknowledge that you should follow the requirements of relevant laws, regulations and national policies when operating on Mask Network or using DApps on Mask Network to conduct transactions.
 
-5. **Service Fees and Tax Liability**
+5.  **Service Fees and Tax Liability**
 
     a. Mask Network does not charge you any form of service fee or handling fee for the time being, and specific terms will be further agreed or announced when certain services need to be charged in the future;
 
