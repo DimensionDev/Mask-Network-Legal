@@ -10,19 +10,19 @@ Mask Network ("Mask Network", "Mask" or "we") respects and protects the privacy 
 
 We get information about you in a range of ways.
 
-1.  **General Information You Give Us. **
+1.  **General Information You Give Us.**
 
 Information we collect from you includes:
 
 - Usage information, such as information about how you use the Service and interact with us.
 
-1.  **Global Backup**
+2.  **Global Backup**
 
 Should you elect to use the Global Backup function, the information we collect from you, in addition to the General Information, includes:
 
 - Contact information, such as your email address and phone number.
 
-1.  **Next.ID**
+3.  **Next.ID**
 
 Should you elect to use the Next.ID, the information we collect from you, in addition to the General Information, includes:
 
@@ -52,4 +52,4 @@ Your continued use of our Services confirms your acceptance of our Privacy Polic
 
 **Contact Us**
 
-If you have any questions about our Privacy Policy, please do not hesitate to contact us at support@mask.io.
+If you have any questions about our Privacy Policy, please do not hesitate to contact us at <support@mask.io>.
