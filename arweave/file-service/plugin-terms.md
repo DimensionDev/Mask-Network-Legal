@@ -10,7 +10,7 @@ Last Updated on Dec 09, 2022
 
 This is the terms of use for Mask Network Plugin "Web3 File Service" and the online service behind it. This Terms of Use is subject to the Mask Network Service Agreement.
 
-This service is powered by Mask Network's partner file storage protocols such as IPFS, Arweave and Meson Network.
+This service is powered by Mask Network's partner file storage protocols such as IPFS and Arweave.
 
 ## Definitions
 
@@ -20,7 +20,7 @@ This service is powered by Mask Network's partner file storage protocols such as
 
 - You: The end user hereby using this service.
 
-- File Storage Protocols: Mask Networks's partner file storage protocols include IPFS, Arweave and Meson Network. At your choice, you could select one to complete your use of Web3 File Service.
+- File Storage Protocols: Mask Networks's partner file storage protocols include IPFS and Arweave. At your choice, you could select one to complete your use of Web3 File Service.
 
 ## Coverage
 
