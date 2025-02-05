@@ -22,11 +22,10 @@ This table includes legal documents of Mask Network the software itself and esse
 
 This table includes legal documents of partnership-based components.
 
-| Partner                                 | List of Documents                |
-| --------------------------------------- | -------------------------------- |
-| [Arweave](https://arweave.org)          | <https://legal.mask.io/arweave/> |
-| [IPFS](https://ipfs.tech/)              | <https://ipfs.tech/>             |
-| [Meson Network](https://meson.network/) | <https://meson.network/>         |
+| Partner                        | List of Documents                |
+| ------------------------------ | -------------------------------- |
+| [Arweave](https://arweave.org) | <https://legal.mask.io/arweave/> |
+| [IPFS](https://ipfs.tech/)     | <https://ipfs.tech/>             |
 
 ## Notes
 

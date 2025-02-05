@@ -14,7 +14,7 @@ Information Being Collected
 
 Mask File Service is built over blockchain technology provided by our partnered File Storage Protocols, and is designed by the developers of Mask Network.
 
-File Storage Protocols include: Arweave, IPFS, and Meson Network.
+File Storage Protocols include: Arweave and IPFS.
 
 By uploading a file, the nodes of the File Storage Protocols blockchain network may or may not collect your browser type info, your IP address.
 
@@ -29,8 +29,6 @@ You may learn more about the privacy policy of our partnered File Storage Protoc
 Arweave at [https://arweave.org](https://arweave.org/).
 
 IPFS at[ https://www.ipfs.com/privacy](https://www.ipfs.com/privacy).
-
-Meson Network at[ https://mesonmix.net/privacypolicy](https://mesonmix.net/privacypolicy).
 
 Changes to this Statement / Contact Us
 
